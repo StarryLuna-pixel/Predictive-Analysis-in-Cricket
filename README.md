@@ -130,8 +130,8 @@ python src/model_random_forest.py
 
 ## 👤 Author
 
-Your Name  
-GitHub: [@your-username](https://github.com/your-username)
+Mrudula Shenoy  
+GitHub: [@StarryLuna-pixel](https://github.com/your-username)
 
 ---
 
